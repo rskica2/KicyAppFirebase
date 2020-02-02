@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1040505801094",
+    "firebase_url": "https://kicy-app-firebase.firebaseio.com",
+    "project_id": "kicy-app-firebase",
+    "storage_bucket": "kicy-app-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040505801094:android:3428039f37f7dc776e4407",
+        "android_client_info": {
+          "package_name": "com.app.kicyappfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040505801094-50dc5i5ren7chemndkocs38itpcgtmio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.kicyappfirebase",
+            "certificate_hash": "622137acdad996f76fd6e6109bdbdc5ac26facce"
+          }
+        },
+        {
+          "client_id": "1040505801094-05afuvh58i449vp791rlnbsjar1p72ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMhGVz94HAghSzqaXDRahyit9VpNDEJEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040505801094-05afuvh58i449vp791rlnbsjar1p72ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
